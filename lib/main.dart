@@ -8,7 +8,7 @@ class MyMaterialApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(f
+      home: Scaffold(
         appBar: AppBar(
           title: Text('Material Design App'),
         ),
