@@ -1,0 +1,19 @@
+name: flutterweb
+description: flutterwebApplication
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  # 他の依存関係
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # テスト用の依存関係
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+  
+flutter:
+  uses-material-design: true
